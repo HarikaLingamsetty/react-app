@@ -1,0 +1,28 @@
+.image {
+  width: 50%;
+  height: 50%;
+  float: left;
+  padding-left: 5%;
+}
+.img {
+  width: 80%;
+  height: 100%;
+  opacity: 0.8;
+}
+.form {
+  width: 50%;
+  height: 50%;
+  padding-top: 15%;
+  float: right;
+  margin-top: -40%;
+}
+.label {
+  font-size: large;
+  font-weight: 500;
+}
+
+.Post {
+  border-width: 2px;
+  width: 10%;
+  cursor: pointer;
+}
